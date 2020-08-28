@@ -1,0 +1,36 @@
+html{
+    background: #FFFFFF;
+    background-size: cover;
+    background-position: center; 
+}
+
+#logo, #topNav {
+    float: left;
+}
+div {
+    display: block;
+}
+body h1 {
+    color: #000000;
+}
+
+.navbar navbar-light {
+    margin: 50px;
+    padding: 50px;
+}
+.profile {
+    width: 400px;
+    height: 500px;
+    padding: 20px;
+    margin: 40px;
+    margin: 0 auto;
+    text-align: center;
+
+
+}
+.prof-img {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    margin: 50px;
+}
